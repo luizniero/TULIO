@@ -1,0 +1,17 @@
+C:\Users\tulio\Desktop\Trabalho\VIEW\Tela Principal\bin\Debug\net6.0-windows\Tela Principal.exe
+C:\Users\tulio\Desktop\Trabalho\VIEW\Tela Principal\bin\Debug\net6.0-windows\Tela Principal.deps.json
+C:\Users\tulio\Desktop\Trabalho\VIEW\Tela Principal\bin\Debug\net6.0-windows\Tela Principal.runtimeconfig.json
+C:\Users\tulio\Desktop\Trabalho\VIEW\Tela Principal\bin\Debug\net6.0-windows\Tela Principal.dll
+C:\Users\tulio\Desktop\Trabalho\VIEW\Tela Principal\bin\Debug\net6.0-windows\Tela Principal.pdb
+C:\Users\tulio\Desktop\Trabalho\VIEW\Tela Principal\obj\Debug\net6.0-windows\Tela Principal.csproj.AssemblyReference.cache
+C:\Users\tulio\Desktop\Trabalho\VIEW\Tela Principal\obj\Debug\net6.0-windows\Tela_Principal.Form1.resources
+C:\Users\tulio\Desktop\Trabalho\VIEW\Tela Principal\obj\Debug\net6.0-windows\Tela Principal.csproj.GenerateResource.cache
+C:\Users\tulio\Desktop\Trabalho\VIEW\Tela Principal\obj\Debug\net6.0-windows\Tela Principal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tulio\Desktop\Trabalho\VIEW\Tela Principal\obj\Debug\net6.0-windows\Tela Principal.AssemblyInfoInputs.cache
+C:\Users\tulio\Desktop\Trabalho\VIEW\Tela Principal\obj\Debug\net6.0-windows\Tela Principal.AssemblyInfo.cs
+C:\Users\tulio\Desktop\Trabalho\VIEW\Tela Principal\obj\Debug\net6.0-windows\Tela Principal.csproj.CoreCompileInputs.cache
+C:\Users\tulio\Desktop\Trabalho\VIEW\Tela Principal\obj\Debug\net6.0-windows\Tela Principal.dll
+C:\Users\tulio\Desktop\Trabalho\VIEW\Tela Principal\obj\Debug\net6.0-windows\refint\Tela Principal.dll
+C:\Users\tulio\Desktop\Trabalho\VIEW\Tela Principal\obj\Debug\net6.0-windows\Tela Principal.pdb
+C:\Users\tulio\Desktop\Trabalho\VIEW\Tela Principal\obj\Debug\net6.0-windows\Tela Principal.genruntimeconfig.cache
+C:\Users\tulio\Desktop\Trabalho\VIEW\Tela Principal\obj\Debug\net6.0-windows\ref\Tela Principal.dll
